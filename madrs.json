@@ -1,0 +1,9 @@
+[
+    
+  {"APPARENT_SADNESS": {"questions":["Do you often find yourself feeling sad or down?", "How frequently do others notice that you're feeling sad or unhappy?",
+  "Can you tell me more about what your feelings of sadness are like?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}},
+  
+  {"REDUCED_APPETITE":{"questions":["Have you noticed any changes in your appetite lately?", "Do you find yourself eating less than you normally would?", "Have you unintentionally lost weight recently?"],
+   "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}
+  
+ ]

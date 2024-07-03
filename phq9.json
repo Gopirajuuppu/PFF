@@ -1,0 +1,77 @@
+
+[
+    {"PERSONAL_INFORMATION": {
+        "questions":[
+            "Could you please provide your full name as it appears on your official identification?", 
+            "What is your date of birth? This helps us determine your age and assists in medical assessments.", 
+            "What is your gender? This helps us tailor our care to your specific needs.", 
+            "Who is your primary care physician, and what is their contact information?", 
+            "Could you provide details about your health insurance, including the provider's name, policy number, and group number?", 
+            "Do you have any pre-existing medical conditions, past surgeries, allergies, or chronic illnesses that we should be aware of?",
+            "Are you currently taking any medications, including prescription drugs, over-the-counter medications, or supplements? Please list them.", 
+            "Are there any significant medical conditions or diseases that run in your family, such as heart disease, cancer, diabetes, etc.?",
+            "Do you smoke? How much alcohol do you typically consume? What is your exercise routine like, and how would you describe your dietary habits?", 
+            "What is your occupation? Are there any occupational hazards or exposures that you are regularly exposed to?"
+            ], 
+        "choices": []
+            }
+    },
+    
+    {"Mood": {
+        "questions": [
+            "How often in the last couple of weeks have you felt really low, sad, or hopeless?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+    
+    {"Anhedonia (Loss of Interest or Pleasure)": {
+        "questions": [
+            "How often in the last two weeks have you found it hard to enjoy things you used to love doing?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+    {"Sleep": {
+        "questions": [
+            "Have you had difficulty sleeping or found yourself sleeping too much over the past couple of weeks?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+    {"Energy": {
+        "questions": [
+            "Have you been feeling constantly tired or lacking energy recently?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+   { "Appetite": {
+        "questions": [
+            "Have your eating habits been affected lately, either by not feeling hungry at all or by overeating?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+   { "Self-Worth": {
+        "questions": [
+            "Have you been struggling with negative thoughts about yourself or feeling like you've let yourself or your loved ones down recently?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+    {"Cognitive Function": {
+        "questions": [
+            "Have you noticed it's been hard to concentrate on things like reading or watching TV lately?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }},
+    {"Psychomotor Changes": {
+        "questions": [
+            "Have you experienced any changes in your movements or speech, like feeling really slow or restless and fidgety compared to usual?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }
+    },
+    {"Suicidal Ideation": {
+        "questions": [
+            "Have you had any thoughts about wanting to escape life or hurting yourself in any way over the past couple of weeks?"
+        ],
+        "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+    }
+}
+]

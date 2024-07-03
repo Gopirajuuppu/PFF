@@ -1,0 +1,36 @@
+[
+  {"PERSONAL_INFORMATION": {"questions":["Could you please provide your full name as it appears on your official identification?", "What is your date of birth? This helps us determine your age and assists in medical assessments.", "What is your gender? This helps us tailor our care to your specific needs.", "Who is your primary care physician, and what is their contact information?", "Could you provide details about your health insurance, including the provider's name, policy number, and group number?", "Do you have any pre-existing medical conditions, past surgeries, allergies, or chronic illnesses that we should be aware of?", "Are you currently taking any medications, including prescription drugs, over-the-counter medications, or supplements? Please list them.", "Are there any significant medical conditions or diseases that run in your family, such as heart disease, cancer, diabetes, etc.?", "Do you smoke? How much alcohol do you typically consume? What is your exercise routine like, and how would you describe your dietary habits?", "What is your occupation? Are there any occupational hazards or exposures that you are regularly exposed to?"], "choices": []}}, 
+  
+  {"APPARENT_SADNESS": {"questions":["Do you often find yourself feeling sad or down?", "How frequently do others notice that you're feeling sad or unhappy?",
+  "Can you tell me more about what your feelings of sadness are like?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}},
+  
+  {"REDUCED_APPETITE":{"questions":["Have you noticed any changes in your appetite lately?", "Do you find yourself eating less than you normally would?", "Have you unintentionally lost weight recently?"],
+   "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}},
+ 
+  {"REDUCED_SLEEP":{"questions":["How have you been sleeping lately?",
+  "Do you find it difficult to fall asleep or stay asleep?", "On average, how many hours do you manage to sleep each night?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}, 
+  
+  {"INNER_TENSION":{"questions":["Do you often find yourself feeling tense or anxious inside?", "How frequently do you notice feelings of inner tension or restlessness?",
+"Could you describe what it's like for you when you're experiencing that inner tension?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}},  
+
+{"CONCENTRATION_DIFFICULTIES":{"questions":["Do you sometimes have trouble focusing on tasks or conversations?", "How often do you find it challenging to concentrate?",
+"Could you share a recent situation where you found it hard to concentrate?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}, 
+
+{"LASSITUDE":{"questions":["Do you often feel physically and mentally exhausted?",
+"How frequently do you experience feelings of fatigue or lethargy?", "Have you noticed any activities that used to give you energy but now don't seem to have the same effect?"],
+"choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}, 
+
+{"INABILITY_TO_FEEL":{"questions":["Do you struggle to find pleasure or enjoyment in activities you once loved?", "Have you noticed a decline in your ability to feel emotions like happiness or excitement?",
+"Could you describe what it's like for you when you feel emotionally numb?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}, 
+
+{"PESSIMISTIC_THOUGHTS":{"questions":["Do you find yourself frequently having negative thoughts about yourself or what lies ahead?",
+"How often do you experience feelings of hopelessness or worthlessness?", "Could you share some recent situations that have triggered these pessimistic thoughts?"],
+"choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}, 
+
+{"SUICIDAL_THOUGHTS":{"questions":["Have you had any thoughts about hurting yourself or ending your life?", "How often do you find yourself thinking about suicide?",
+"Do you have any plans for harming yourself?"], "choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}},
+  
+{"REPORTED_SADNESS": {"questions": ["How often do you find yourself feeling sad or low?",
+"On a scale from 0 to 10, how intense would you say your feelings of sadness are?", "Are there particular things that tend to make you feel even sadder or more down?"],
+"choices": ["No symptoms", "Mild symptoms", "Moderate symptoms", "Significant symptoms", "Severe symptoms", "Very severe symptoms"]}}
+ ]
