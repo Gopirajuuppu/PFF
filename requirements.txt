@@ -1,0 +1,15 @@
+streamlit==1.31.0
+openai==1.11.1
+python-docx==1.1.0
+python-dotenv
+llama-index-program-openai
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+instructor==1.0.3
+pydantic==2.7.0b1
+audio-recorder-streamlit==0.0.8
+azure-cognitiveservices-speech==1.37.0
+pydub==0.25.1
+streamlit-float==0.3.2
